@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Fredoka', sans-serif;
+    color: #fff;
+}
+body{
+    background-image: url(alyani-yang-WajET_vzPmI-unsplash.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+#navbar{
+    padding-left: 60px;
+    padding-top: 30px;
+    padding-right: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+#right-nav{
+    display:flex;
+}
+#left-nav{
+    display:flex;
+}
+p.menu{
+    padding-top: 9px;
+    padding-right: 20px;
+    font-size: 15px;
+    color: rgb(0, 204, 68);
+}
+p.glint{
+    align-items: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+p.glint2{
+    color:rgb(0, 204, 68);
+    align-items: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+p.ico{
+    align-items: center;
+    font-size: 35px;
+}
+#middle{
+    margin-top: 200px;
+    margin-left: 300px;
+    justify-content: space-between;
+    display: flex;
+}
+#top{
+    font-size: 15px;
+    color: rgb(148, 148, 148);
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+#mid{
+    font-size: 60px;
+    color: white;
+    font-weight: 600;
+}
+#bottom{
+    margin-top: 150px;
+    display: flex;
+}
+#left-btn{
+    margin-right: 20px;
+    font-size: 10px;
+    padding: 12px 45px 12px 45px;
+    border: white solid 2px;
+}
+#right-btn{
+    font-size: 10px;
+    padding: 12px 45px 12px 45px;
+    border: white solid 2px;
+}
+#right-middle{
+    margin-top: 40px;
+    margin-right: 40px;
+}
+.face, .twit, .insta, .vue, .yt{
+    font-size: 15px;
+    border: white solid 2px;
+    padding: 5px 5px 0px 5px;
+    border-radius: 30px;
+    margin-bottom:25px;
+}
+#scroll{
+    margin-left: 103rem;
+    margin-top: 11rem ;
+    
+    display: flex;
+}
+p.down-arrow{
+    padding-right: 8px;
+    
+}
+i.ri-arrow-down-s-line{
+    color: chartreuse;
+}
+p.down{
+    font-size: 13px;
+}
+
+
+hr{
+    height: 100px;
+    width: 2px;
+    border: 0px;
+    margin: 5px 0px 0px 10px;
+    background-color: rgb(5, 167, 54);
+}
